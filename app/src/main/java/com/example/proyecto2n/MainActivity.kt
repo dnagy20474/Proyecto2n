@@ -56,7 +56,7 @@ fun Proyecto2nApp() {
     ) {
         Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
             Greeting(
-                name = "Android",
+                name = "Mundo",
                 modifier = Modifier.padding(innerPadding)
             )
         }
